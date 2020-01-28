@@ -19,7 +19,7 @@ The uri of these two REST APIs and sample requests/responses are as below.
     "data": {
         "firstName": "JOHN0000",
         "lastName": "MICHAEL000",
-        "clientId": "999-4567"
+        "clientId": "9994567"
     }
 }
 </pre>
